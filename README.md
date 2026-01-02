@@ -44,6 +44,14 @@ EcoMorph uses SAM3 (Segment Anything Model 3) to measure biological structures f
 
 **Note:** First run downloads the SAM3 model (~2GB). This takes a few minutes.
 
+### Reset App Data
+
+If EcoMorph has issues, try clearing local data:
+
+**macOS/Linux:** `rm -rf ~/.ecomorph/`
+
+**Windows:** `rmdir /s /q %APPDATA%\EcoMorph`
+
 ## Quick Start
 
 1. **Load an image** — Click "Load Image" 
