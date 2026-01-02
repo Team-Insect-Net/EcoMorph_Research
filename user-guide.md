@@ -154,7 +154,7 @@ Segment individual body parts of arthropods.
 3. Run analysis
 
 ### What Gets Segmented
-- Head, thorax, abdomen, legs, antennae
+- Head, thorax, abdomen, legs, and antennae
 
 ### Body Part Results
 
@@ -198,7 +198,7 @@ After batch processing:
 
 ### Why Use Cloud?
 
-- **Quality Data**: Better SAM3 segementation on GPU
+- **Quality Results**: Better SAM3 segementation on GPU
 - **Faster**: GPU acceleration (10x faster than CPU)
 
 
