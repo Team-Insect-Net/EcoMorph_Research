@@ -4,8 +4,8 @@
 
 EcoMorph uses SAM3 (Segment Anything Model 3) to measure biological structures from images — insects, flowers, leaves, and more — without manual annotation.
 
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME/EcoMorph-releases/releases/latest/download/EcoMorph-macOS.dmg)
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/EcoMorph-releases/releases/latest/download/EcoMorph-Windows.zip)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)](https://drive.google.com/file/d/1o5B8aSEodlEnwgWBaIY69DfBb7hq9yQJ/view?usp=sharing)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://drive.google.com/file/d/1O5ZPwN4vbLsIWhDpF483rfmS46E1bFmA/view?usp=sharing)
 
 ---
 
@@ -25,13 +25,13 @@ EcoMorph uses SAM3 (Segment Anything Model 3) to measure biological structures f
 
 ### macOS
 
-1. Download `EcoMorph-macOS.dmg` from [Releases](https://github.com/YOUR_USERNAME/EcoMorph-releases/releases/latest)
+1. Download `EcoMorph-macOS.dmg` 
 2. Open the DMG and drag EcoMorph to Applications
 3. First launch: Right-click → Open (to bypass Gatekeeper)
 
 ### Windows
 
-1. Download `EcoMorph-Windows.zip` from [Releases](https://github.com/YOUR_USERNAME/EcoMorph-releases/releases/latest)
+1. Download `EcoMorph-Windows.zip`
 2. Extract the ZIP file
 3. Run `EcoMorph.exe`
 
