@@ -4,7 +4,7 @@ All notable changes to EcoMorph will be documented in this file.
 
 ## [0.1.0] - 2026-01-02
 
-### 🎉 Initial Public Release
+### Initial Public Release
 
 First public release of EcoMorph for macOS and Windows.
 
@@ -28,16 +28,13 @@ First public release of EcoMorph for macOS and Windows.
 
 ### Supported Platforms
 
-- macOS (Apple Silicon & Intel)
+- macOS 10.15+ (Apple Silicon & Intel)
 - Windows 10/11
-
-
----
+- Linux (x86_64, most modern distributions)
 
 ## Future Releases
 
 Stay tuned for:
-- Linux support
-- Additional arthropod types
-- Improved batch processing UI
-- Plugin system for custom measurements
+- Efficient batch processing at Azure ML inference server instead of serverless function app
+- Cloud based persistent storage management
+- Intelligent insight integration (LLM)

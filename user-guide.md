@@ -13,15 +13,11 @@
 9. [Cloud Processing](#cloud-processing)
 10. [Tips & Tricks](#tips--tricks)
 
----
-
 ## Getting Started
 
 ### First Launch
 
 When you first open EcoMorph, the SAM3 model (~2GB) will be downloaded automatically. This only happens once — subsequent launches are fast.
-
----
 
 ## Loading Images
 
@@ -30,13 +26,10 @@ When you first open EcoMorph, the SAM3 model (~2GB) will be downloaded automatic
 - Click **Load Image** button, or
 - Use the **+** button in the Images panel
 
-
 ### Supported Formats
 
 - JPEG (.jpg, .jpeg)
 - PNG (.png)
-
----
 
 ## Segmentation
 
@@ -78,8 +71,6 @@ Switch between views using the tabs:
 - **Segmentation**: Binary mask showing detected objects
 - **Overlay**: Original image with colored mask overlay
 
----
-
 ## Measurements
 
 ### Area
@@ -108,8 +99,6 @@ Switch between views using the tabs:
 - **HSV mean**: Hue, Saturation, Value
 - **LAB mean**: Perceptually uniform color space
 - **Dominant colors**: Top 5 colors and their proportions
-
----
 
 ## Scaling
 
@@ -141,8 +130,6 @@ Use when you know the camera-to-subject distance:
 
 **Tip:** Find sensor specs in your camera's manual or online.
 
----
-
 ## Body Part Analysis
 
 Segment individual body parts of arthropods.
@@ -159,8 +146,6 @@ Segment individual body parts of arthropods.
 ### Body Part Results
 
 Each body part gets individual measurements for area, dimensions, shape, and color.
-
----
 
 ## Batch Processing
 
@@ -179,8 +164,6 @@ After batch processing:
 - Click **Export All to CSV** for a combined spreadsheet
 - All images' measurements in one file
 
----
-
 ## Exporting Results
 
 ### CSV Export
@@ -191,8 +174,6 @@ After batch processing:
 ### Mask Export
 
 - Click **Save View** to save the current view as PNG
-
----
 
 ## Cloud Processing
 
@@ -212,8 +193,6 @@ After batch processing:
 
 - 100 images/month free
 - No credit card required
-
----
 
 ## Tips & Tricks
 
@@ -235,8 +214,6 @@ After batch processing:
 1. **Always use scaling**: Pixel measurements aren't comparable across images
 2. **Consistent reference**: Use same reference object/size
 3. **Check segmentation**: Edit masks if needed before measuring
-
----
 
 ## Troubleshooting
 
@@ -260,8 +237,6 @@ The model is still downloading. Wait for it to complete.
 
 - Delete preferences: `~/.ecomorph/` (macOS) or `%APPDATA%\EcoMorph` (Windows)
 - Reinstall the application
-
----
 
 ## Getting Help
 - **Email**: eai6@psu.edu
