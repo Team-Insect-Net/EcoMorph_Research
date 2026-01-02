@@ -1,6 +1,6 @@
 # EcoMorph
 
-**Automated morphological trait quantification for ecological research**
+**automated morphological trait quantification and biomass estimation in ecological research**
 
 EcoMorph uses SAM3 (Segment Anything Model 3) to measure biological structures from images — insects, flowers, leaves, and more — without manual annotation.
 
@@ -88,7 +88,7 @@ If you use EcoMorph in your research, please cite:
 
 ```bibtex
 @software{ecomorph2026,
-  title = {EcoMorph: Automated morphological trait quantification for ecological research},
+  title = {EcoMorph: automated morphological trait quantification and biomass estimation in ecological research },
   author = {Amoah, Edward I. and Patch, Harland M. and Grozinger, Christina M.},
   year = {2026},
   url = {https://github.com/Team-Insect-Net/EcoMorph_Research.git}
