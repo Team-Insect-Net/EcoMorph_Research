@@ -6,7 +6,7 @@ All notable changes to EcoMorph will be documented in this file.
 
 ### Initial Public Release
 
-First public release of EcoMorph for macOS and Windows.
+First public release of EcoMorph for macOS, Linux and Windows.
 
 ### Features
 
